@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261303675082",
+    "project_id": "pininfinity-2e6c0",
+    "storage_bucket": "pininfinity-2e6c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261303675082:android:39fa24dfc7b39af97bec33",
+        "android_client_info": {
+          "package_name": "com.example.projet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD8IkBu-tHg-epuMLSd7wvqY_6wwlfOz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
